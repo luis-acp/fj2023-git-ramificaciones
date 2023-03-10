@@ -1,0 +1,6 @@
+namespace  Api;
+
+class Program
+{
+
+}
